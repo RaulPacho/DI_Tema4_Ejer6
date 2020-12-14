@@ -72,7 +72,7 @@ namespace DI_Tema4_Ejer6
             this.Controls.Add(this.textBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "COÑO!";
             this.ResumeLayout(false);
             this.PerformLayout();
 
